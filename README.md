@@ -50,9 +50,9 @@
 
 #### Running the code
 
--   The [GAN_Implementation.ipynb]() contains the code for the GAN architecture and generates new training examples. 
+-   The [GAN_Implementation.ipynb](https://github.com/AceEV/DCGAN/blob/master/GAN_Implementation.ipynb) contains the code for the GAN architecture and generates new training examples. 
 -   The code was written and run on Google Colab, using TPU.
--   The [final_classifier.ipynb]() is used to perform the actual classification on the dataset, with the GAN generated images in the training data.
+-   The [final_classifier.ipynb](https://github.com/AceEV/DCGAN/blob/master/final_classifier.ipynb) is used to perform the actual classification on the dataset, with the GAN generated images in the training data.
 
 
 
