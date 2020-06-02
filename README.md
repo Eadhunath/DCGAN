@@ -14,7 +14,7 @@
 
 -   A GAN consists of 2 components, a Generator and a Discriminator
 
-    <img src="README.assets/image1.png" alt="img" style="zoom: 50%;" />
+    <img src="README.assets/image1.png" alt="img" style="zoom: 10%;" />
 
 -   GANs are a clever way of training a generative model by framing the problem as a supervised learning problem with two sub-models
 
